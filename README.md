@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @nataliekeys! I am a computer science senior at Western Washington University.
-- 👀 I’m interested in front end and full stack development!
+- 👋 Hi, I’m @nataliekeys! I am a frontend developer and a homelab/automation enjoyer
 - 📫 How to reach me~ Linkedin: https://www.linkedin.com/in/natalie-keys-404/  ~  Email: nataliekeys412@gmail.com
 
 <!---
